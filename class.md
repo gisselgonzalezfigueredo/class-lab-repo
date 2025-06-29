@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: [Gissel Rocio Gonzalez Figueredo]  
+- Certification: [Certificacion Android meta]  
 
 ## Instructions
 Please replace the placeholders with your details:
